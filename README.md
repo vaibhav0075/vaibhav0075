@@ -202,17 +202,6 @@ Status: Learning Never Stops
 
 
 
-markdown
-
-## 🐍 Contribution Snake
-
-
-
-![snake gif](https://github.com/vaibhav0075/vaibhav0075/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 
 ---
 
