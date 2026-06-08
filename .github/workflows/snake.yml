@@ -1,5 +1,4 @@
 name: Generate Snake
-
 "on":
 workflow_dispatch:
 schedule:
